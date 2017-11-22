@@ -1,0 +1,8 @@
+C:\Users\Garuba Abdulmalik\Documents\PSoC Creator\PSOC GSM SERIAL Com\2 UART TEST.cydsn\2 UART TEST.cyprj|6a7280d1-aed6-4fc6-926b-0524d8b73d6c
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|8073f3b0-7bea-4215-b6eb-7820811b4598
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|f33d38b4-938c-4f02-b43a-2d373bc9371a
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|58d158d3-1919-452e-a024-9ba50ec2ee93
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|b7bff4fc-55e9-451b-8a16-99655950d3e6
+C:\Users\Garuba Abdulmalik\Documents\PSoC Creator\PSOC GSM SERIAL Com\FULL GPRS MODEM APP.cydsn\FULL GPRS MODEM APP.cyprj|539f4a07-c961-419e-be9d-f9fca0d89034
+C:\Users\Garuba Abdulmalik\Documents\PSoC Creator\PSOC GSM SERIAL Com\2 UART TEST.cydsn\EMA.cydsn\EMA.cyprj|c3b5779f-544d-4f07-93f2-48d50b205429
+C:\Users\Garuba Abdulmalik\Documents\PSoC Creator\PSOC GSM SERIAL Com\FULL GPRS MODEM APP_Copy_01.cydsn\FULL GPRS MODEM APP_Copy_01.cyprj|25907825-d879-4290-8a4b-500bae393b3a

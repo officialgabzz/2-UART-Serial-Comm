@@ -1,0 +1,9 @@
+C:\Users\Garuba Abdulmalik\Documents\PSoC Creator\PSOC GSM SERIAL Com\send SMS.cydsn\send SMS.cyprj|548d7fae-e41b-41d2-97f5-a081f9ac6cbc
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|217de154-b76e-4500-8ef4-682023a6bed8
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|133322dd-921e-4ecb-a58b-a281a7c748ca
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|4ca261a3-8b28-4c10-85fb-d6d841fe38c4
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|c89f830c-fd79-41db-9854-8e2779d7ef5f
+C:\Users\Garuba Abdulmalik\Documents\PSoC Creator\PSOC GSM SERIAL Com\SMS RCX WORKING.cydsn\SMS RCX WORKING.cyprj|78a78c7c-5b84-407e-9443-27b032799a88
+C:\Users\Garuba Abdulmalik\Documents\PSoC Creator\PSOC GSM SERIAL Com\send SMS_Copy_02_Copy_01.cydsn\send SMS_Copy_02_Copy_01.cyprj|b8b899b1-a5e4-4299-9693-4587b044719f
+C:\Users\Garuba Abdulmalik\Documents\PSoC Creator\PSOC GSM SERIAL Com\SMS RCX WORKING_2_UART.cydsn\SMS RCX WORKING_2_UART.cyprj|9fb93961-3724-43de-a4a1-2a8002500564
+C:\Users\Garuba Abdulmalik\Documents\PSoC Creator\PSOC GSM SERIAL Com\2 UART TEST.cydsn\2 UART TEST.cyprj|3983a9f9-d46d-4346-9421-985620968544

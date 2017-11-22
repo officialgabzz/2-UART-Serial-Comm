@@ -1,0 +1,8 @@
+C:/Users/Garuba\ Abdulmalik/Documents/PSoC\ Creator/PSOC\ GSM\ SERIAL\ Com/2\ UART\ TEST.cydsn/EMA.cydsn/CortexM0/ARM_GCC_493/Debug/CyBootAsmGnu.o : C:/Users/Garuba\ Abdulmalik/Documents/PSoC\ Creator/PSOC\ GSM\ SERIAL\ Com/2\ UART\ TEST.cydsn/EMA.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s C:/Users/Garuba\ Abdulmalik/Documents/PSoC\ Creator/PSOC\ GSM\ SERIAL\ Com/2\ UART\ TEST.cydsn/EMA.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc C:/Users/Garuba\ Abdulmalik/Documents/PSoC\ Creator/PSOC\ GSM\ SERIAL\ Com/2\ UART\ TEST.cydsn/EMA.cydsn/Generated_Source/PSoC4/cyfittergnu.inc 
+
+C:/Users/Garuba\ Abdulmalik/Documents/PSoC\ Creator/PSOC\ GSM\ SERIAL\ Com/2\ UART\ TEST.cydsn/EMA.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s : 
+
+C:/Users/Garuba\ Abdulmalik/Documents/PSoC\ Creator/PSOC\ GSM\ SERIAL\ Com/2\ UART\ TEST.cydsn/EMA.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc : 
+
+C:/Users/Garuba\ Abdulmalik/Documents/PSoC\ Creator/PSOC\ GSM\ SERIAL\ Com/2\ UART\ TEST.cydsn/EMA.cydsn/Generated_Source/PSoC4/cyfittergnu.inc : 
+

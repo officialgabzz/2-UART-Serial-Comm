@@ -1,0 +1,14 @@
+I2659: No Constrained paths were found. The placer will run in non-timing driven mode.
+E2809: Unable to find a valid placement for pins and fixed-function blocks. See the Digital Placement's Detailed placement messages section in the report file for details.
+I2722: The following instances could not be placed:
+   \UART:SCB\ (2 location(s): F(SCB,0) F(SCB,1))
+Fixed function block and pin placement:
+   F(Clock,0): ClockBlock
+   F(SCB,1): \UARTT:SCB\
+   F(CLK_GEN,0): ClockGenBlock
+   P0[5]: \UART:tx(0)\
+   P0[4]: \UART:rx(0)\
+   P3[0]: \UARTT:rx(0)\
+   P3[1]: \UARTT:tx(0)\
+
+E2055: An error occurred during placement of the design.
